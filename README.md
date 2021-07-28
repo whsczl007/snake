@@ -69,3 +69,5 @@ pkill skynet
 客户端
 
 解包客户端里面的script，修改CServerPhoneCtrl.lua里面ID1001开头的就可以了，然后打包回去
+
+http://ourgames.wxmolegames.com/ 
